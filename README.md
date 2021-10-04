@@ -2,8 +2,8 @@
 ## Olá! Eu sou a Anna.❤️
 #
 ### Outras redes sociais que você pode me encontrar:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](852695710427250718)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wiokya@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Wiokya#0110)
 [![Discord](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aclrxz)
 #
 ![Wiokya GitHub stats](https://github-readme-stats.vercel.app/api?username=aclr11&show_icons=true&theme=dracula)
