@@ -3,7 +3,7 @@
 #
 ### Outras redes sociais que você pode me encontrar:
  <a href = "mailto:wiokya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me/852695710427250718" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a> 
+ <a href="https://discord.com/channels/852695710427250718" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a> 
  <a href="https://instagram.com/aclrxz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a>
  #
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aclr11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
